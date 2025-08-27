@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/priya-travels/static/css/main.442aaf0c.css",
-    "main.js": "/priya-travels/static/js/main.75573c7c.js",
+    "main.css": "/priya-travels/static/css/main.dbceafda.css",
+    "main.js": "/priya-travels/static/js/main.8f19a24e.js",
     "static/js/453.ed8e69ac.chunk.js": "/priya-travels/static/js/453.ed8e69ac.chunk.js",
-    "static/media/Logo.png": "/priya-travels/static/media/Logo.55cca3e0b22172e5e9f7.png",
+    "static/media/Logo.png": "/priya-travels/static/media/Logo.a87ab6f694865c5dcbae.png",
     "index.html": "/priya-travels/index.html",
-    "main.442aaf0c.css.map": "/priya-travels/static/css/main.442aaf0c.css.map",
-    "main.75573c7c.js.map": "/priya-travels/static/js/main.75573c7c.js.map",
+    "main.dbceafda.css.map": "/priya-travels/static/css/main.dbceafda.css.map",
+    "main.8f19a24e.js.map": "/priya-travels/static/js/main.8f19a24e.js.map",
     "453.ed8e69ac.chunk.js.map": "/priya-travels/static/js/453.ed8e69ac.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.442aaf0c.css",
-    "static/js/main.75573c7c.js"
+    "static/css/main.dbceafda.css",
+    "static/js/main.8f19a24e.js"
   ]
 }
